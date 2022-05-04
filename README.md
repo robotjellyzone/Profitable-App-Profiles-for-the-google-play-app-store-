@@ -1,4 +1,7 @@
 # Profitable-App-Profiles-for-the-google-play-app-store
+---
+
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotjellyzone/Profitable-App-Profiles-for-the-google-play-app-store-/blob/master/Basics.ipynb) <br>
 
 In this project, i assume that i am working as a **data analysts** for the company that builds **android & iOS mobile apps** which are then made available on Google Play and the App Store.
 
